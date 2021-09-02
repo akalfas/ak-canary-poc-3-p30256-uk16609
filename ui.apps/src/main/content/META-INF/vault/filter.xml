@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/akcanarypoc/clientlibs"/>
+    <filter root="/apps/akcanarypoc/components"/>
+    <filter root="/apps/akcanarypoc/i18n"/>
+</workspaceFilter>

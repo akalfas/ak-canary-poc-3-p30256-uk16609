@@ -1,0 +1,10 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/akcanarypoc",
+        "create path (nt:unstructured) /content/dam/akcanarypoc/jcr:content",
+        "set properties on /content/dam/akcanarypoc/jcr:content",
+        "set cq:conf{String} to /conf/akcanarypoc",
+        "set jcr:title{String} to \"ak-canary-poc-3\"",
+        "end"
+    ]
+}
