@@ -30,6 +30,7 @@ import org.eclipse.jetty.client.HttpResponse;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.ClassRule;
+import org.junit.Ignore;
 import org.junit.Rule;
 import org.junit.Test;
 import org.slf4j.LoggerFactory;
@@ -85,6 +86,7 @@ public class PublishPageValidationIT {
 
 
     @Test
+    @Ignore
     public void validateHomepage() throws ClientException, IOException, URISyntaxException {
         String path = HOMEPAGE;
         verifyPage(adminPublish, path);
