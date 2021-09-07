@@ -7,7 +7,7 @@
         cq:xfMasterVariation="{Boolean}true"
         cq:xfVariantType="web"
         jcr:primaryType="cq:PageContent"
-        jcr:title="Footer"
+        jcr:title="Footers"
         sling:resourceType="akcanarypoc/components/xfpage">
         <root
             jcr:primaryType="nt:unstructured"
