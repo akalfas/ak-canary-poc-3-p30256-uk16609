@@ -128,4 +128,3 @@ The project comes with the auto-public repository configured. To setup the repos
 ## Test
 ### 1
 ### 2
-### 3
